@@ -1,0 +1,2 @@
+# micrograd
+Andrej Karpathy course
